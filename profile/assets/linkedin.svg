@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 40" width="130px" height="40px"
+    fill="currentColor">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                span {
+                    border-radius: 100vw;
+                    background-color: rgb(12 12 13 / 1);
+                    color: white;
+                    padding: 0.5em 1.25em;
+                    letter-spacing: 1.7px;
+                    text-transform: uppercase;
+                    font-size: 1rem;
+                    line-height: 1.5;
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+                div {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    height: 100%;
+                }
+            </style>
+            <div>
+                <span>LinkedIn</span>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
