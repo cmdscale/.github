@@ -14,4 +14,4 @@ Von Serverless Architekturen bis hin zu Enterprise Lösungen. Unser Team aus Exp
 
 Unsicher, ob CmdScale Ihre Herausforderungen lösen kann? Wir sind die Besten! Lassen Sie uns bei einem virtuellen Kaffee kennenlernen und den schnellsten Weg zu Ihrem Ziel finden.
 
-[<img src="assets/book_calendly.svg" />](https://calendly.com/cmdscale-daniel-heymann/remote-kaffee-mit-daniel) [<img src="assets/linkedin.svg" />](https://www.linkedin.com/company/cmdscale/)
+[<img src="assets/book_calendly.svg" />](https://calendar.app.google/uB7XHXGt6zixUh3DA) [<img src="assets/linkedin.svg" />](https://www.linkedin.com/company/cmdscale/)
